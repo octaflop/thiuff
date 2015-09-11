@@ -9,3 +9,4 @@ autobahn==0.10.5.post2
 htmlmin==0.1.6
 channels==0.7
 psycopg2>=2.5
+Pillow==2.9.0
