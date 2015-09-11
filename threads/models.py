@@ -7,7 +7,7 @@ import markdown
 import urlman
 
 try:
-    from urllib.parse import urlparse
+    import urllib.parse as urlparse
 except ImportError:
     import urlparse
 
